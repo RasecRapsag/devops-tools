@@ -59,7 +59,7 @@ variable "template_description" {
 variable "template_id" {
     description = "Template ID"
     type        = string
-    default     = "904"
+    default     = "900"
 }
 
 variable "template_iso_file" {
